@@ -15677,36 +15677,40 @@ BF959 corrected 2008.03.06&lt;br&gt;</description>
 <part name="GND21" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="T3" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="*-NPN-" device="TO126V" package3d_urn="urn:adsk.eagle:package:29912/1"/>
 <part name="T4" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="BC847" device="" package3d_urn="urn:adsk.eagle:package:29904/2"/>
-<part name="R15" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
-<part name="R18" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
+<part name="R15" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="1K"/>
+<part name="R18" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
 <part name="GND5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R16" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
+<part name="R16" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
 <part name="GND22" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R17" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
-<part name="CN3" library="pls" deviceset="PBS-1-VERTICAL" device=""/>
+<part name="R17" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
+<part name="P+5" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
+<part name="CN3" library="pls" deviceset="PBS-1-VERTICAL" device="" value="R"/>
 <part name="T1" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="*-NPN-" device="TO126V" package3d_urn="urn:adsk.eagle:package:29912/1"/>
 <part name="T2" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="BC847" device="" package3d_urn="urn:adsk.eagle:package:29904/2"/>
-<part name="R19" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
-<part name="R20" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
+<part name="R19" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="1K"/>
+<part name="R20" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
 <part name="GND23" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND24" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R21" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
+<part name="R21" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
 <part name="GND25" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R22" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
-<part name="CN4" library="pls" deviceset="PBS-1-VERTICAL" device=""/>
+<part name="R22" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
+<part name="P+4" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
+<part name="CN4" library="pls" deviceset="PBS-1-VERTICAL" device="" value="G"/>
 <part name="T5" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="*-NPN-" device="TO126V" package3d_urn="urn:adsk.eagle:package:29912/1"/>
 <part name="T6" library="transistor" library_urn="urn:adsk.eagle:library:402" deviceset="BC847" device="" package3d_urn="urn:adsk.eagle:package:29904/2"/>
-<part name="R23" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
-<part name="R24" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
+<part name="R23" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="1K"/>
+<part name="R24" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
 <part name="GND26" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
 <part name="GND27" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R25" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
+<part name="R25" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
 <part name="GND28" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="GND" device=""/>
-<part name="R26" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="100K"/>
-<part name="CN8" library="pls" deviceset="PBS-1-VERTICAL" device=""/>
+<part name="R26" library="eagle-ltspice" library_urn="urn:adsk.eagle:library:217" deviceset="R" device="R0603" package3d_urn="urn:adsk.eagle:package:13302/1" value="10K"/>
+<part name="P+6" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
+<part name="CN8" library="pls" deviceset="PBS-1-VERTICAL" device="" value="B"/>
 <part name="R27" library="resistor" library_urn="urn:adsk.eagle:library:348" deviceset="R-EU_" device="0411/12" package3d_urn="urn:adsk.eagle:package:26091/1"/>
 <part name="P+7" library="supply1" library_urn="urn:adsk.eagle:library:371" deviceset="+5V" device=""/>
+<part name="CN9" library="pls" deviceset="PBS-1-VERTICAL" device="" value="+"/>
 </parts>
 <sheets>
 <sheet>
@@ -15809,6 +15813,7 @@ For programmers (CN1 in uart-mode):
 <instance part="R16" gate="G$1" x="-177.8" y="35.56" rot="R270"/>
 <instance part="GND22" gate="1" x="-177.8" y="48.26" rot="R180"/>
 <instance part="R17" gate="G$1" x="-177.8" y="2.54" rot="R270"/>
+<instance part="P+5" gate="1" x="-177.8" y="-10.16" rot="R180"/>
 <instance part="CN3" gate="G$1" x="-200.66" y="-35.56"/>
 <instance part="T1" gate="G$1" x="-187.96" y="-86.36" rot="R180"/>
 <instance part="T2" gate="G$1" x="-172.72" y="-86.36" rot="R180"/>
@@ -15819,6 +15824,7 @@ For programmers (CN1 in uart-mode):
 <instance part="R21" gate="G$1" x="-175.26" y="-68.58" rot="R270"/>
 <instance part="GND25" gate="1" x="-175.26" y="-55.88" rot="R180"/>
 <instance part="R22" gate="G$1" x="-175.26" y="-101.6" rot="R270"/>
+<instance part="P+4" gate="1" x="-175.26" y="-114.3" rot="R180"/>
 <instance part="CN4" gate="G$1" x="-198.12" y="-139.7"/>
 <instance part="T5" gate="G$1" x="-187.96" y="-203.2" rot="R180"/>
 <instance part="T6" gate="G$1" x="-172.72" y="-203.2" rot="R180"/>
@@ -15829,9 +15835,11 @@ For programmers (CN1 in uart-mode):
 <instance part="R25" gate="G$1" x="-175.26" y="-185.42" rot="R270"/>
 <instance part="GND28" gate="1" x="-175.26" y="-172.72" rot="R180"/>
 <instance part="R26" gate="G$1" x="-175.26" y="-218.44" rot="R270"/>
+<instance part="P+6" gate="1" x="-175.26" y="-231.14" rot="R180"/>
 <instance part="CN8" gate="G$1" x="-198.12" y="-256.54"/>
-<instance part="R27" gate="G$1" x="-104.14" y="-121.92"/>
-<instance part="P+7" gate="1" x="-91.44" y="-121.92" rot="R270"/>
+<instance part="R27" gate="G$1" x="-193.04" y="76.2"/>
+<instance part="P+7" gate="1" x="-182.88" y="76.2" rot="R270"/>
+<instance part="CN9" gate="G$1" x="-208.28" y="76.2"/>
 </instances>
 <busses>
 </busses>
@@ -16308,9 +16316,24 @@ For programmers (CN1 in uart-mode):
 <wire x1="17.78" y1="96.52" x2="30.48" y2="96.52" width="0.1524" layer="91"/>
 </segment>
 <segment>
+<pinref part="R17" gate="G$1" pin="2"/>
+<pinref part="P+5" gate="1" pin="+5V"/>
+<wire x1="-177.8" y1="-7.62" x2="-177.8" y2="-2.54" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R22" gate="G$1" pin="2"/>
+<pinref part="P+4" gate="1" pin="+5V"/>
+<wire x1="-175.26" y1="-111.76" x2="-175.26" y2="-106.68" width="0.1524" layer="91"/>
+</segment>
+<segment>
+<pinref part="R26" gate="G$1" pin="2"/>
+<pinref part="P+6" gate="1" pin="+5V"/>
+<wire x1="-175.26" y1="-228.6" x2="-175.26" y2="-223.52" width="0.1524" layer="91"/>
+</segment>
+<segment>
 <pinref part="R27" gate="G$1" pin="2"/>
 <pinref part="P+7" gate="1" pin="+5V"/>
-<wire x1="-93.98" y1="-121.92" x2="-99.06" y2="-121.92" width="0.1524" layer="91"/>
+<wire x1="-187.96" y1="76.2" x2="-185.42" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 </net>
 <net name="N$32" class="0">
@@ -16467,24 +16490,11 @@ For programmers (CN1 in uart-mode):
 <pinref part="CN8" gate="G$1" pin="1"/>
 </segment>
 </net>
-<net name="N$21" class="0">
+<net name="N$20" class="0">
 <segment>
-<pinref part="R26" gate="G$1" pin="2"/>
-<wire x1="-175.26" y1="-228.6" x2="-175.26" y2="-223.52" width="0.1524" layer="91"/>
-<pinref part="R22" gate="G$1" pin="2"/>
-<wire x1="-175.26" y1="-111.76" x2="-175.26" y2="-106.68" width="0.1524" layer="91"/>
-<pinref part="R17" gate="G$1" pin="2"/>
-<wire x1="-177.8" y1="-7.62" x2="-177.8" y2="-2.54" width="0.1524" layer="91"/>
 <pinref part="R27" gate="G$1" pin="1"/>
-<wire x1="-109.22" y1="-121.92" x2="-114.3" y2="-121.92" width="0.1524" layer="91"/>
-<wire x1="-114.3" y1="-121.92" x2="-114.3" y2="-228.6" width="0.1524" layer="91"/>
-<wire x1="-114.3" y1="-121.92" x2="-114.3" y2="-111.76" width="0.1524" layer="91"/>
-<junction x="-114.3" y="-121.92"/>
-<wire x1="-114.3" y1="-111.76" x2="-114.3" y2="-7.62" width="0.1524" layer="91"/>
-<wire x1="-177.8" y1="-7.62" x2="-114.3" y2="-7.62" width="0.1524" layer="91"/>
-<wire x1="-175.26" y1="-111.76" x2="-114.3" y2="-111.76" width="0.1524" layer="91"/>
-<junction x="-114.3" y="-111.76"/>
-<wire x1="-175.26" y1="-228.6" x2="-114.3" y2="-228.6" width="0.1524" layer="91"/>
+<pinref part="CN9" gate="G$1" pin="1"/>
+<wire x1="-203.2" y1="76.2" x2="-198.12" y2="76.2" width="0.1524" layer="91"/>
 </segment>
 </net>
 </nets>
